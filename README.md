@@ -77,5 +77,3 @@ Feel free to open issues or submit pull requests. When contributing:
 This project is provided as a learning/demo example and is **unlicensed** – you may use it freely.
 
 ---
-
-*Built with ❤️ by the Antigravity AI assistant.*
